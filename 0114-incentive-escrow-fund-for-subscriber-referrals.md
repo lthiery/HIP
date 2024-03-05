@@ -35,9 +35,11 @@ We propose a referral incentive program that would channel rewards to the commun
 -   Any funds delegated towards the incentive escrow fund are matched pro-rata up to 100% by un-used programmatic emissions from the service provider bucket. I.e. if there are plenty of un-emitted funds in the 10% service provider bucket and Helium Mobile chose to start delegating up to 50% of it’s rewards towards referral incentive escrow (roughly $1K/day in MOBILE), total of $2K/day in MOBILE will be deposited into the escrow
     
 -   Incentive escrow fund is specific to a service provider and multiple funds can exist for different service providers. I.e. Helium Mobile can run its own, Telefonica (when and if approved as an SP) can run its own
-    
+
 -   Service providers can define and run various incentive programs that would reward the community for growing subscribers, using MOBILE delegated into the incentive escrow fund
-    
+
+-   The Service Provider shall be responsible for monitoring escrow funds dedicated towards a subscriber referral program and is expected to limit or suspend the program before escrow funds can be entirely depleted.    
+ 
 -   MOBILE in the escrow fund cannot be used for anything other than programmatic incentive programs aimed at new subscriber acquisitions (i.e. referrals or “new subscriber” bonus rewards)
     
 -   Any MOBILE that has not been used by the referral program for a period of 12 calendar months from the moment of the original deposit into the fund is burned
